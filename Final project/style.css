@@ -1,0 +1,21 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: rgba(104, 94, 94, 0.205);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.m-heading {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navigation-link {
+    border: 2px solid transparent;
+}
+
+.navigation-link:hover {
+    border-bottom: 2px solid greenyellow;
+    transition: 0.5s ease;
+}
