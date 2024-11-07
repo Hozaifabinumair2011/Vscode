@@ -1,0 +1,21 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: rgba(200, 203, 221, 0.623);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.m-heading {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+a {
+    border: 2px solid transparent;
+}
+
+a:hover {
+    border-bottom: 2px solid rgb(255, 136, 0);
+    transition: 0.5s ease;
+}
