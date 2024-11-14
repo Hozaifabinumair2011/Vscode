@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background: rgba(200, 203, 221, 0.623);
+    background: rgb(97, 73, 9);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
@@ -18,4 +18,13 @@ a {
 a:hover {
     border-bottom: 2px solid rgb(255, 136, 0);
     transition: 0.5s ease;
+}
+
+.content {
+    background-color: rgb(204, 126, 8);
+    border-radius: 0.5 rem;
+}
+
+#nav {
+    background-color: rgba(255, 238, 0, 0.548);
 }
