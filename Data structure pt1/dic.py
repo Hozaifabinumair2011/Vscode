@@ -1,0 +1,9 @@
+a={"name":"Hozaifa","Age":13,"weight":48.75}
+print(a)
+print(a["Age"])
+a["Age"]=14
+print(a)
+a.pop("weight")
+print(a)
+a.clear()
+print(a)
