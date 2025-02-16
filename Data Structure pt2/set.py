@@ -1,0 +1,10 @@
+a={1,2,2,3,3,3,4,4,4,4,5,5,5,5,5}
+print(a)
+b={10,20,30}
+c={20,40,60}
+print(b.difference(c))
+print(c.difference(b))
+print(b.symmetric_difference(c))
+print(c.symmetric_difference(b))
+print(b.union(c))
+print(b.intersection(c))
