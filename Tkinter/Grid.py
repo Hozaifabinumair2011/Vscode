@@ -6,4 +6,4 @@ for i in range(3):
         frame.grid(row=i,column=j,padx=5,pady=5)
         label=Label(master=frame,text=f"row{i}\n column{j}")
         label.pack()
-window.mainloop()
+window.mainloop()bh
